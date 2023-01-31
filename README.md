@@ -25,8 +25,8 @@ A simple calendar app that allows you to schedule your work day by hour.
 
 ## Screenshot of Live Page
 
-![Screenshot of Page]()
+![Screenshot of Page](./assets/images/2023-01-30.png)
 
 ## Link to Live Page
 
-[Link to Live Page]()
+[Link to Live Page](https://jacksonmaltby.github.io/daily-dos-and-donts/)
